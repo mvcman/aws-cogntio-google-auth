@@ -1,5 +1,35 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### To create a Cognito UserPool and to set up google as a federated identity provider plz check this link:
+
+https://aws.amazon.com/premiumsupport/knowledge-center/cognito-google-social-identity-provider
+
+### After creation of Cognito UserPool, let's start the frontend setup to use google sign in button and redirect to the main page
+
+### Clone the repository:
+
+```
+$ git clone
+```
+
+### Go inside the repository using following command:
+
+```
+$ cd foldername
+```
+
+### Install dependencies
+
+```
+$ yarn install
+```
+
+### Run the code using:
+
+```
+$ yarn start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
